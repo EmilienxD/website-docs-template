@@ -1,0 +1,152 @@
+{
+  "opus": {
+    "url": "https://help.opus.pro/api-reference/endpoints/create-project",
+    "states": {
+      "desktop-plain": {
+        "width": 688.8125,
+        "height": 196,
+        "fontFamily": "\"Paper Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgba(0, 0, 0, 0)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "desktop-tabs": {
+        "width": 688.8125,
+        "height": 716,
+        "fontFamily": "\"Paper Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgba(0, 0, 0, 0)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "desktop-alternate-tab": {
+        "width": 688.8125,
+        "height": 668,
+        "fontFamily": "\"Paper Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgba(0, 0, 0, 0)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "mobile-tabs": {
+        "width": 350,
+        "height": 668,
+        "fontFamily": "\"Paper Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgba(0, 0, 0, 0)",
+        "radius": "16px",
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "dark-tabs": {
+        "width": 688.8125,
+        "height": 668,
+        "fontFamily": "\"Paper Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgba(0, 0, 0, 0)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      }
+    }
+  },
+  "forma": {
+    "url": "http://localhost:3000/docs/article/api-overview",
+    "states": {
+      "desktop-plain": {
+        "width": 760,
+        "height": 76,
+        "fontFamily": "paperMono, \"paperMono Fallback\", SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgb(11, 12, 14)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "desktop-tabs": {
+        "width": 760,
+        "height": 116,
+        "fontFamily": "paperMono, \"paperMono Fallback\", SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgb(11, 12, 14)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "desktop-alternate-tab": {
+        "width": 760,
+        "height": 188,
+        "fontFamily": "paperMono, \"paperMono Fallback\", SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgb(11, 12, 14)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      },
+      "mobile-tabs": {
+        "width": 350,
+        "height": 188,
+        "fontFamily": "paperMono, \"paperMono Fallback\", SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgb(11, 12, 14)",
+        "radius": "16px",
+        "viewport": [
+          390,
+          844
+        ]
+      },
+      "dark-tabs": {
+        "width": 760,
+        "height": 188,
+        "fontFamily": "paperMono, \"paperMono Fallback\", SFMono-Regular, Consolas, \"Liberation Mono\", monospace",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "background": "rgb(11, 12, 14)",
+        "radius": "16px",
+        "viewport": [
+          1440,
+          1000
+        ]
+      }
+    }
+  }
+}

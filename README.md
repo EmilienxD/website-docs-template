@@ -1,3 +1,5 @@
+> **Implemented documentation template:** Run `npm run dev` and open [localhost:3000](http://localhost:3000). See [docs/TEMPLATE.md](docs/TEMPLATE.md) for customization, components, routes, and reference comparisons. The original scaffold documentation follows below.
+
 <div align="center">
 
 # AI Website Cloner Template

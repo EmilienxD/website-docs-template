@@ -1,0 +1,3486 @@
+{
+  "source": "https://help.opus.pro/docs",
+  "resolved": "https://help.opus.pro/docs/article/introduction-to-opusclip",
+  "views": {
+    "desktop": {
+      "viewport": [
+        1440,
+        1000
+      ],
+      "scroll": [
+        0,
+        0
+      ],
+      "overflow": [
+        1440,
+        1440
+      ],
+      "elements": [
+        {
+          "selector": "body",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4615.84375,
+            "top": 0,
+            "right": 1440,
+            "bottom": 4615.84375,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#navbar",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 112,
+            "top": 0,
+            "right": 1440,
+            "bottom": 112,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar",
+          "rect": {
+            "x": 32,
+            "y": 112,
+            "width": 288,
+            "height": 888,
+            "top": 112,
+            "right": 320,
+            "bottom": 1000,
+            "left": 32
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar h3",
+          "rect": {
+            "x": 48,
+            "y": 144,
+            "width": 102.859375,
+            "height": 24,
+            "top": 144,
+            "right": 150.859375,
+            "bottom": 168,
+            "left": 48
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar a",
+          "rect": {
+            "x": 32,
+            "y": 178,
+            "width": 256,
+            "height": 36,
+            "top": 178,
+            "right": 288,
+            "bottom": 214,
+            "left": 32
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "6px 12px 6px 16px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(0, 0, 0)",
+          "background": "oklab(0 0 0 / 0.1)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "#content-container",
+          "rect": {
+            "x": 320,
+            "y": 112,
+            "width": 1088,
+            "height": 4503.84375,
+            "top": 112,
+            "right": 1408,
+            "bottom": 4615.84375,
+            "left": 320
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#content-area",
+          "rect": {
+            "x": 272,
+            "y": 152,
+            "width": 784,
+            "height": 4463.84375,
+            "top": 152,
+            "right": 1056,
+            "bottom": 4615.84375,
+            "left": 272
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 4px 0px 91.2px",
+          "margin": "0px 0px 0px -48px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "1535.2px",
+          "display": "block"
+        },
+        {
+          "selector": "#page-title",
+          "rect": {
+            "x": 363.1875,
+            "y": 184,
+            "width": 402.296875,
+            "height": 40,
+            "top": 184,
+            "right": 765.484375,
+            "bottom": 224,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "40px",
+          "weight": "600",
+          "letterSpacing": "-0.9px",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#table-of-contents",
+          "rect": {
+            "x": 1144,
+            "y": 112,
+            "width": 264,
+            "height": 400,
+            "top": 112,
+            "right": 1408,
+            "bottom": 512,
+            "left": 1144
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "-40px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(79, 79, 79)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#header",
+          "rect": {
+            "x": 363.1875,
+            "y": 152,
+            "width": 688.8125,
+            "height": 72,
+            "top": 152,
+            "right": 1052,
+            "bottom": 224,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card",
+          "rect": {
+            "x": 363.1875,
+            "y": 816.984375,
+            "width": 218.9375,
+            "height": 134,
+            "top": 816.984375,
+            "right": 582.125,
+            "bottom": 950.984375,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "8px 0px",
+          "border": "1px solid oklab(0.144787 0.00000661612 0.00000289828 / 0.1)",
+          "radius": "16px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgb(255, 255, 255)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card h2",
+          "rect": {
+            "x": 388.1875,
+            "y": 877.984375,
+            "width": 168.9375,
+            "height": 48,
+            "top": 877.984375,
+            "right": 557.125,
+            "bottom": 925.984375,
+            "left": 388.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "16px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(37, 37, 37)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".mdx-content p",
+          "missing": true
+        },
+        {
+          "selector": ".mdx-content h2",
+          "rect": {
+            "x": 363.1875,
+            "y": 683,
+            "width": 688.8125,
+            "height": 31.984375,
+            "top": 683,
+            "right": 1052,
+            "bottom": 714.984375,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "31.9999px",
+          "weight": "600",
+          "letterSpacing": "-0.6px",
+          "padding": "0px",
+          "margin": "36px 0px 18px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "oklch(0.21 0.034 264.665)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "iframe",
+          "rect": {
+            "x": 427.59375,
+            "y": 332,
+            "width": 560,
+            "height": 315,
+            "top": 332,
+            "right": 987.59375,
+            "bottom": 647,
+            "left": 427.59375
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "8px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#search-bar-entry",
+          "rect": {
+            "x": 501.328125,
+            "y": 13.5,
+            "width": 437.34375,
+            "height": 36,
+            "top": 13.5,
+            "right": 938.671875,
+            "bottom": 49.5,
+            "left": 501.328125
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 12px 0px 14px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgb(255, 255, 255)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        }
+      ],
+      "rootVariables": {
+        "--primary-dark": "0 0 0",
+        "--primary-light": "255 255 255",
+        "--tw-ring-offset-width": "0px",
+        "--assistant-sheet-width": "0px",
+        "--background-dark": "14 14 16",
+        "--background-light": "255 255 255",
+        "--color-primary": "rgb(0 0 0)",
+        "--topbar-tabs-height": "3rem",
+        "--primary": "0 0 0"
+      },
+      "containers": [
+        {
+          "selector": "#sidebar",
+          "ancestors": [
+            {
+              "tag": "NAV",
+              "classes": "z-20 hidden lg:block sticky self-start shrink-0 w-(--sidebar-width,18rem) top-[calc(var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))+var(--banner-height,0px))] h-[calc(100dvh-var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))-var(--banner-height,0px))]",
+              "rect": {
+                "x": 32,
+                "y": 112,
+                "width": 288,
+                "height": 888,
+                "top": 112,
+                "right": 320,
+                "bottom": 1000,
+                "left": 32
+              },
+              "maxWidth": "none",
+              "width": "288px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 112,
+                "width": 1440,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#navbar",
+          "ancestors": [
+            {
+              "tag": "HEADER",
+              "classes": "z-30 fixed lg:sticky top-0 w-full peer is-not-custom peer is-not-center peer is-not-wide peer is-not-frame",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 112,
+                "top": 0,
+                "right": 1440,
+                "bottom": 112,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#content-area",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 272,
+                "y": 152,
+                "width": 784,
+                "height": 4463.84375,
+                "top": 152,
+                "right": 1056,
+                "bottom": 4615.84375,
+                "left": 272
+              },
+              "maxWidth": "1535.2px",
+              "width": "784px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "MAIN",
+              "classes": "lg:flex-1 lg:min-w-0",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 112,
+                "width": 1440,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": ".card",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "card block font-normal group relative my-2 ring-2 ring-transparent rounded-2xl bg-white dark:bg-background-dark border border-gray-950/10 dark:border-white/10 overflow-hidden w-full cursor-pointer hover:border-primary! dark:hover:border-primary-light!",
+              "rect": {
+                "x": 363.1875,
+                "y": 816.984375,
+                "width": 218.9375,
+                "height": 134,
+                "top": 816.984375,
+                "right": 582.125,
+                "bottom": 950.984375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "218.938px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "8px 0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "columns prose dark:prose-invert grid max-w-none gap-4 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @2xl/columns-container:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @[0px]/columns-container:grid-cols-1 card-group dark:prose-dark gap-y-0 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))]!",
+              "rect": {
+                "x": 363.1875,
+                "y": 808.984375,
+                "width": 688.8125,
+                "height": 150,
+                "top": 808.984375,
+                "right": 1052,
+                "bottom": 958.984375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "688.812px",
+              "gap": "0px 16px",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "mdx-content @container/columns-container relative mt-8 prose prose-gray dark:prose-invert [contain:inline-size] isolate empty:hidden mb-14",
+              "rect": {
+                "x": 363.1875,
+                "y": 256,
+                "width": 688.8125,
+                "height": 3926.84375,
+                "top": 256,
+                "right": 1052,
+                "bottom": 4182.84375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "688.812px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "32px 0px 56px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 272,
+                "y": 152,
+                "width": 784,
+                "height": 4463.84375,
+                "top": 152,
+                "right": 1056,
+                "bottom": 4615.84375,
+                "left": 272
+              },
+              "maxWidth": "1535.2px",
+              "width": "784px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            }
+          ]
+        }
+      ]
+    },
+    "dark": {
+      "viewport": [
+        1440,
+        1000
+      ],
+      "scroll": [
+        0,
+        0
+      ],
+      "overflow": [
+        1440,
+        1440
+      ],
+      "elements": [
+        {
+          "selector": "body",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4615.84375,
+            "top": 0,
+            "right": 1440,
+            "bottom": 4615.84375,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#navbar",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 112,
+            "top": 0,
+            "right": 1440,
+            "bottom": 112,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar",
+          "rect": {
+            "x": 32,
+            "y": 112,
+            "width": 288,
+            "height": 888,
+            "top": 112,
+            "right": 320,
+            "bottom": 1000,
+            "left": 32
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar h3",
+          "rect": {
+            "x": 48,
+            "y": 144,
+            "width": 102.859375,
+            "height": 24,
+            "top": 144,
+            "right": 150.859375,
+            "bottom": 168,
+            "left": 48
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(222, 222, 222)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar a",
+          "rect": {
+            "x": 32,
+            "y": 178,
+            "width": 256,
+            "height": 36,
+            "top": 178,
+            "right": 288,
+            "bottom": 214,
+            "left": 32
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "6px 12px 6px 16px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "12px",
+          "color": "rgb(255, 255, 255)",
+          "background": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "#content-container",
+          "rect": {
+            "x": 320,
+            "y": 112,
+            "width": 1088,
+            "height": 4503.84375,
+            "top": 112,
+            "right": 1408,
+            "bottom": 4615.84375,
+            "left": 320
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#content-area",
+          "rect": {
+            "x": 272,
+            "y": 152,
+            "width": 784,
+            "height": 4463.84375,
+            "top": 152,
+            "right": 1056,
+            "bottom": 4615.84375,
+            "left": 272
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 4px 0px 91.2px",
+          "margin": "0px 0px 0px -48px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "1535.2px",
+          "display": "block"
+        },
+        {
+          "selector": "#page-title",
+          "rect": {
+            "x": 363.1875,
+            "y": 184,
+            "width": 402.296875,
+            "height": 40,
+            "top": 184,
+            "right": 765.484375,
+            "bottom": 224,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "40px",
+          "weight": "600",
+          "letterSpacing": "-0.9px",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(222, 222, 222)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#table-of-contents",
+          "rect": {
+            "x": 1144,
+            "y": 112,
+            "width": 264,
+            "height": 400,
+            "top": 112,
+            "right": 1408,
+            "bottom": 512,
+            "left": 1144
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "-40px 0px 0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(79, 79, 79)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#header",
+          "rect": {
+            "x": 363.1875,
+            "y": 152,
+            "width": 688.8125,
+            "height": 72,
+            "top": 152,
+            "right": 1052,
+            "bottom": 224,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card",
+          "rect": {
+            "x": 363.1875,
+            "y": 816.984375,
+            "width": 218.9375,
+            "height": 134,
+            "top": 816.984375,
+            "right": 582.125,
+            "bottom": 950.984375,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "8px 0px",
+          "border": "1px solid oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+          "radius": "16px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgb(14, 14, 16)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card h2",
+          "rect": {
+            "x": 388.1875,
+            "y": 877.984375,
+            "width": 168.9375,
+            "height": 48,
+            "top": 877.984375,
+            "right": 557.125,
+            "bottom": 925.984375,
+            "left": 388.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "16px 0px 0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".mdx-content p",
+          "missing": true
+        },
+        {
+          "selector": ".mdx-content h2",
+          "rect": {
+            "x": 363.1875,
+            "y": 683,
+            "width": 688.8125,
+            "height": 31.984375,
+            "top": 683,
+            "right": 1052,
+            "bottom": 714.984375,
+            "left": 363.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "31.9999px",
+          "weight": "600",
+          "letterSpacing": "-0.6px",
+          "padding": "0px",
+          "margin": "36px 0px 18px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "0px",
+          "color": "rgb(255, 255, 255)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "iframe",
+          "rect": {
+            "x": 427.59375,
+            "y": 332,
+            "width": 560,
+            "height": 315,
+            "top": 332,
+            "right": 987.59375,
+            "bottom": 647,
+            "left": 427.59375
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "8px",
+          "color": "rgb(158, 158, 158)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#search-bar-entry",
+          "rect": {
+            "x": 501.328125,
+            "y": 13.5,
+            "width": 437.34375,
+            "height": 36,
+            "top": 13.5,
+            "right": 938.671875,
+            "bottom": 49.5,
+            "left": 501.328125
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 12px 0px 14px",
+          "margin": "0px",
+          "border": "0px solid rgb(37, 37, 37)",
+          "radius": "12px",
+          "color": "oklab(0.999994 0.0000455678 0.0000200868 / 0.5)",
+          "background": "rgb(14, 14, 16)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        }
+      ],
+      "rootVariables": {
+        "--primary-dark": "0 0 0",
+        "--primary-light": "255 255 255",
+        "--tw-ring-offset-width": "0px",
+        "--assistant-sheet-width": "0px",
+        "--background-dark": "14 14 16",
+        "--background-light": "255 255 255",
+        "--color-primary": "rgb(0 0 0)",
+        "--topbar-tabs-height": "3rem",
+        "--primary": "0 0 0"
+      },
+      "containers": [
+        {
+          "selector": "#sidebar",
+          "ancestors": [
+            {
+              "tag": "NAV",
+              "classes": "z-20 hidden lg:block sticky self-start shrink-0 w-(--sidebar-width,18rem) top-[calc(var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))+var(--banner-height,0px))] h-[calc(100dvh-var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))-var(--banner-height,0px))]",
+              "rect": {
+                "x": 32,
+                "y": 112,
+                "width": 288,
+                "height": 888,
+                "top": 112,
+                "right": 320,
+                "bottom": 1000,
+                "left": 32
+              },
+              "maxWidth": "none",
+              "width": "288px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 112,
+                "width": 1440,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#navbar",
+          "ancestors": [
+            {
+              "tag": "HEADER",
+              "classes": "z-30 fixed lg:sticky top-0 w-full peer is-not-custom peer is-not-center peer is-not-wide peer is-not-frame",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 112,
+                "top": 0,
+                "right": 1440,
+                "bottom": 112,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#content-area",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 272,
+                "y": 152,
+                "width": 784,
+                "height": 4463.84375,
+                "top": 152,
+                "right": 1056,
+                "bottom": 4615.84375,
+                "left": 272
+              },
+              "maxWidth": "1535.2px",
+              "width": "784px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "MAIN",
+              "classes": "lg:flex-1 lg:min-w-0",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 112,
+                "width": 1440,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 4615.84375,
+                "top": 0,
+                "right": 1440,
+                "bottom": 4615.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1440px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": ".card",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "card block font-normal group relative my-2 ring-2 ring-transparent rounded-2xl bg-white dark:bg-background-dark border border-gray-950/10 dark:border-white/10 overflow-hidden w-full cursor-pointer hover:border-primary! dark:hover:border-primary-light!",
+              "rect": {
+                "x": 363.1875,
+                "y": 816.984375,
+                "width": 218.9375,
+                "height": 134,
+                "top": 816.984375,
+                "right": 582.125,
+                "bottom": 950.984375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "218.938px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "8px 0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "columns prose dark:prose-invert grid max-w-none gap-4 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @2xl/columns-container:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @[0px]/columns-container:grid-cols-1 card-group dark:prose-dark gap-y-0 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))]!",
+              "rect": {
+                "x": 363.1875,
+                "y": 808.984375,
+                "width": 688.8125,
+                "height": 150,
+                "top": 808.984375,
+                "right": 1052,
+                "bottom": 958.984375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "688.812px",
+              "gap": "0px 16px",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "mdx-content @container/columns-container relative mt-8 prose prose-gray dark:prose-invert [contain:inline-size] isolate empty:hidden mb-14",
+              "rect": {
+                "x": 363.1875,
+                "y": 256,
+                "width": 688.8125,
+                "height": 3926.84375,
+                "top": 256,
+                "right": 1052,
+                "bottom": 4182.84375,
+                "left": 363.1875
+              },
+              "maxWidth": "none",
+              "width": "688.812px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "32px 0px 56px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 272,
+                "y": 152,
+                "width": 784,
+                "height": 4463.84375,
+                "top": 152,
+                "right": 1056,
+                "bottom": 4615.84375,
+                "left": 272
+              },
+              "maxWidth": "1535.2px",
+              "width": "784px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 320,
+                "y": 112,
+                "width": 1088,
+                "height": 4503.84375,
+                "top": 112,
+                "right": 1408,
+                "bottom": 4615.84375,
+                "left": 320
+              },
+              "maxWidth": "none",
+              "width": "1088px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            }
+          ]
+        }
+      ]
+    },
+    "wide": {
+      "viewport": [
+        1920,
+        1080
+      ],
+      "scroll": [
+        0,
+        0
+      ],
+      "overflow": [
+        1920,
+        1920
+      ],
+      "elements": [
+        {
+          "selector": "body",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 4563.84375,
+            "top": 0,
+            "right": 1920,
+            "bottom": 4563.84375,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#navbar",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 112,
+            "top": 0,
+            "right": 1920,
+            "bottom": 112,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar",
+          "rect": {
+            "x": 256,
+            "y": 112,
+            "width": 288,
+            "height": 968,
+            "top": 112,
+            "right": 544,
+            "bottom": 1080,
+            "left": 256
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar h3",
+          "rect": {
+            "x": 272,
+            "y": 144,
+            "width": 102.859375,
+            "height": 24,
+            "top": 144,
+            "right": 374.859375,
+            "bottom": 168,
+            "left": 272
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar a",
+          "rect": {
+            "x": 256,
+            "y": 178,
+            "width": 256,
+            "height": 36,
+            "top": 178,
+            "right": 512,
+            "bottom": 214,
+            "left": 256
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "6px 12px 6px 16px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(0, 0, 0)",
+          "background": "oklab(0 0 0 / 0.1)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "#content-container",
+          "rect": {
+            "x": 544,
+            "y": 112,
+            "width": 1120,
+            "height": 4451.84375,
+            "top": 112,
+            "right": 1664,
+            "bottom": 4563.84375,
+            "left": 544
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#content-area",
+          "rect": {
+            "x": 496,
+            "y": 152,
+            "width": 816,
+            "height": 4411.84375,
+            "top": 152,
+            "right": 1312,
+            "bottom": 4563.84375,
+            "left": 496
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 4px 0px 91.2px",
+          "margin": "0px 0px 0px -48px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "2015.2px",
+          "display": "block"
+        },
+        {
+          "selector": "#page-title",
+          "rect": {
+            "x": 587.1875,
+            "y": 184,
+            "width": 402.296875,
+            "height": 40,
+            "top": 184,
+            "right": 989.484375,
+            "bottom": 224,
+            "left": 587.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "36px",
+          "lineHeight": "40px",
+          "weight": "600",
+          "letterSpacing": "-0.9px",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#table-of-contents",
+          "rect": {
+            "x": 1400,
+            "y": 112,
+            "width": 264,
+            "height": 400,
+            "top": 112,
+            "right": 1664,
+            "bottom": 512,
+            "left": 1400
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "-40px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(79, 79, 79)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#header",
+          "rect": {
+            "x": 587.1875,
+            "y": 152,
+            "width": 720.8125,
+            "height": 72,
+            "top": 152,
+            "right": 1308,
+            "bottom": 224,
+            "left": 587.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card",
+          "rect": {
+            "x": 587.1875,
+            "y": 816.984375,
+            "width": 229.59375,
+            "height": 134,
+            "top": 816.984375,
+            "right": 816.78125,
+            "bottom": 950.984375,
+            "left": 587.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "8px 0px",
+          "border": "1px solid oklab(0.144787 0.00000661612 0.00000289828 / 0.1)",
+          "radius": "16px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgb(255, 255, 255)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card h2",
+          "rect": {
+            "x": 612.1875,
+            "y": 877.984375,
+            "width": 179.59375,
+            "height": 48,
+            "top": 877.984375,
+            "right": 791.78125,
+            "bottom": 925.984375,
+            "left": 612.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "16px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(37, 37, 37)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".mdx-content p",
+          "missing": true
+        },
+        {
+          "selector": ".mdx-content h2",
+          "rect": {
+            "x": 587.1875,
+            "y": 683,
+            "width": 720.8125,
+            "height": 31.984375,
+            "top": 683,
+            "right": 1308,
+            "bottom": 714.984375,
+            "left": 587.1875
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "31.9999px",
+          "weight": "600",
+          "letterSpacing": "-0.6px",
+          "padding": "0px",
+          "margin": "36px 0px 18px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "oklch(0.21 0.034 264.665)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "iframe",
+          "rect": {
+            "x": 667.59375,
+            "y": 332,
+            "width": 560,
+            "height": 315,
+            "top": 332,
+            "right": 1227.59375,
+            "bottom": 647,
+            "left": 667.59375
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "8px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#search-bar-entry",
+          "rect": {
+            "x": 736,
+            "y": 13.5,
+            "width": 448,
+            "height": 36,
+            "top": 13.5,
+            "right": 1184,
+            "bottom": 49.5,
+            "left": 736
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 12px 0px 14px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgb(255, 255, 255)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        }
+      ],
+      "rootVariables": {
+        "--primary-dark": "0 0 0",
+        "--primary-light": "255 255 255",
+        "--tw-ring-offset-width": "0px",
+        "--assistant-sheet-width": "0px",
+        "--background-dark": "14 14 16",
+        "--background-light": "255 255 255",
+        "--color-primary": "rgb(0 0 0)",
+        "--topbar-tabs-height": "3rem",
+        "--primary": "0 0 0"
+      },
+      "containers": [
+        {
+          "selector": "#sidebar",
+          "ancestors": [
+            {
+              "tag": "NAV",
+              "classes": "z-20 hidden lg:block sticky self-start shrink-0 w-(--sidebar-width,18rem) top-[calc(var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))+var(--banner-height,0px))] h-[calc(100dvh-var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))-var(--banner-height,0px))]",
+              "rect": {
+                "x": 256,
+                "y": 112,
+                "width": 288,
+                "height": 968,
+                "top": 112,
+                "right": 544,
+                "bottom": 1080,
+                "left": 256
+              },
+              "maxWidth": "none",
+              "width": "288px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 224,
+                "y": 112,
+                "width": 1472,
+                "height": 4451.84375,
+                "top": 112,
+                "right": 1696,
+                "bottom": 4563.84375,
+                "left": 224
+              },
+              "maxWidth": "1472px",
+              "width": "1472px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px 224px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#navbar",
+          "ancestors": [
+            {
+              "tag": "HEADER",
+              "classes": "z-30 fixed lg:sticky top-0 w-full peer is-not-custom peer is-not-center peer is-not-wide peer is-not-frame",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 112,
+                "top": 0,
+                "right": 1920,
+                "bottom": 112,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#content-area",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 496,
+                "y": 152,
+                "width": 816,
+                "height": 4411.84375,
+                "top": 152,
+                "right": 1312,
+                "bottom": 4563.84375,
+                "left": 496
+              },
+              "maxWidth": "2015.2px",
+              "width": "816px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 544,
+                "y": 112,
+                "width": 1120,
+                "height": 4451.84375,
+                "top": 112,
+                "right": 1664,
+                "bottom": 4563.84375,
+                "left": 544
+              },
+              "maxWidth": "none",
+              "width": "1120px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "MAIN",
+              "classes": "lg:flex-1 lg:min-w-0",
+              "rect": {
+                "x": 544,
+                "y": 112,
+                "width": 1120,
+                "height": 4451.84375,
+                "top": 112,
+                "right": 1664,
+                "bottom": 4563.84375,
+                "left": 544
+              },
+              "maxWidth": "none",
+              "width": "1120px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 224,
+                "y": 112,
+                "width": 1472,
+                "height": 4451.84375,
+                "top": 112,
+                "right": 1696,
+                "bottom": 4563.84375,
+                "left": 224
+              },
+              "maxWidth": "1472px",
+              "width": "1472px",
+              "gap": "normal",
+              "padding": "0px 32px",
+              "margin": "0px 224px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 4563.84375,
+                "top": 0,
+                "right": 1920,
+                "bottom": 4563.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "1920px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": ".card",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "card block font-normal group relative my-2 ring-2 ring-transparent rounded-2xl bg-white dark:bg-background-dark border border-gray-950/10 dark:border-white/10 overflow-hidden w-full cursor-pointer hover:border-primary! dark:hover:border-primary-light!",
+              "rect": {
+                "x": 587.1875,
+                "y": 816.984375,
+                "width": 229.59375,
+                "height": 134,
+                "top": 816.984375,
+                "right": 816.78125,
+                "bottom": 950.984375,
+                "left": 587.1875
+              },
+              "maxWidth": "none",
+              "width": "229.594px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "8px 0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "columns prose dark:prose-invert grid max-w-none gap-4 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @2xl/columns-container:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @[0px]/columns-container:grid-cols-1 card-group dark:prose-dark gap-y-0 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))]!",
+              "rect": {
+                "x": 587.1875,
+                "y": 808.984375,
+                "width": 720.8125,
+                "height": 150,
+                "top": 808.984375,
+                "right": 1308,
+                "bottom": 958.984375,
+                "left": 587.1875
+              },
+              "maxWidth": "none",
+              "width": "720.812px",
+              "gap": "0px 16px",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "mdx-content @container/columns-container relative mt-8 prose prose-gray dark:prose-invert [contain:inline-size] isolate empty:hidden mb-14",
+              "rect": {
+                "x": 587.1875,
+                "y": 256,
+                "width": 720.8125,
+                "height": 3874.84375,
+                "top": 256,
+                "right": 1308,
+                "bottom": 4130.84375,
+                "left": 587.1875
+              },
+              "maxWidth": "none",
+              "width": "720.812px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "32px 0px 56px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 496,
+                "y": 152,
+                "width": 816,
+                "height": 4411.84375,
+                "top": 152,
+                "right": 1312,
+                "bottom": 4563.84375,
+                "left": 496
+              },
+              "maxWidth": "2015.2px",
+              "width": "816px",
+              "gap": "normal",
+              "padding": "0px 4px 0px 91.2px",
+              "margin": "0px 0px 0px -48px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 544,
+                "y": 112,
+                "width": 1120,
+                "height": 4451.84375,
+                "top": 112,
+                "right": 1664,
+                "bottom": 4563.84375,
+                "left": 544
+              },
+              "maxWidth": "none",
+              "width": "1120px",
+              "gap": "48px",
+              "padding": "40px 0px 0px",
+              "margin": "0px"
+            }
+          ]
+        }
+      ]
+    },
+    "mobile": {
+      "viewport": [
+        390,
+        844
+      ],
+      "scroll": [
+        0,
+        0
+      ],
+      "overflow": [
+        475,
+        390
+      ],
+      "elements": [
+        {
+          "selector": "body",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 7741.84375,
+            "top": 0,
+            "right": 390,
+            "bottom": 7741.84375,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(0, 0, 0)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#navbar",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 120,
+            "top": 0,
+            "right": 390,
+            "bottom": 120,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "fixed",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "sticky",
+          "maxWidth": "none",
+          "display": "none"
+        },
+        {
+          "selector": "#sidebar h3",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#sidebar a",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "6px 12px 6px 16px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(0, 0, 0)",
+          "background": "oklab(0 0 0 / 0.1)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "#content-container",
+          "rect": {
+            "x": 16,
+            "y": 0,
+            "width": 358,
+            "height": 7741.84375,
+            "top": 0,
+            "right": 374,
+            "bottom": 7741.84375,
+            "left": 16
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#content-area",
+          "rect": {
+            "x": 16,
+            "y": 160,
+            "width": 358,
+            "height": 7581.84375,
+            "top": 160,
+            "right": 374,
+            "bottom": 7741.84375,
+            "left": 16
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 4px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#page-title",
+          "rect": {
+            "x": 20,
+            "y": 192,
+            "width": 335.25,
+            "height": 36,
+            "top": 192,
+            "right": 355.25,
+            "bottom": 228,
+            "left": 20
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "30px",
+          "lineHeight": "36px",
+          "weight": "600",
+          "letterSpacing": "-0.75px",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(22, 22, 22)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#table-of-contents",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "-40px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(79, 79, 79)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#header",
+          "rect": {
+            "x": 20,
+            "y": 160,
+            "width": 350,
+            "height": 68,
+            "top": 160,
+            "right": 370,
+            "bottom": 228,
+            "left": 20
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "16px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card",
+          "rect": {
+            "x": 20,
+            "y": 876.984375,
+            "width": 350,
+            "height": 110,
+            "top": 876.984375,
+            "right": 370,
+            "bottom": 986.984375,
+            "left": 20
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "8px 0px",
+          "border": "1px solid oklab(0.144787 0.00000661612 0.00000289828 / 0.1)",
+          "radius": "16px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgb(255, 255, 255)",
+          "position": "relative",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".card h2",
+          "rect": {
+            "x": 45,
+            "y": 937.984375,
+            "width": 300,
+            "height": 24,
+            "top": 937.984375,
+            "right": 345,
+            "bottom": 961.984375,
+            "left": 45
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "24px",
+          "weight": "600",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "16px 0px 0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "rgb(37, 37, 37)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": ".mdx-content p",
+          "missing": true
+        },
+        {
+          "selector": ".mdx-content h2",
+          "rect": {
+            "x": 20,
+            "y": 715,
+            "width": 350,
+            "height": 31.984375,
+            "top": 715,
+            "right": 370,
+            "bottom": 746.984375,
+            "left": 20
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "24px",
+          "lineHeight": "31.9999px",
+          "weight": "600",
+          "letterSpacing": "-0.6px",
+          "padding": "0px",
+          "margin": "36px 0px 18px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "0px",
+          "color": "oklch(0.21 0.034 264.665)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        },
+        {
+          "selector": "iframe",
+          "rect": {
+            "x": -85,
+            "y": 364,
+            "width": 560,
+            "height": 315,
+            "top": 364,
+            "right": 475,
+            "bottom": 679,
+            "left": -85
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "16px",
+          "lineHeight": "28px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "8px",
+          "color": "rgb(62, 62, 62)",
+          "background": "rgba(0, 0, 0, 0)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "block"
+        },
+        {
+          "selector": "#search-bar-entry",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0,
+            "top": 0,
+            "right": 0,
+            "bottom": 0,
+            "left": 0
+          },
+          "fontFamily": "Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", system-ui, sans-serif",
+          "fontSize": "14px",
+          "lineHeight": "24px",
+          "weight": "400",
+          "letterSpacing": "normal",
+          "padding": "0px 12px 0px 14px",
+          "margin": "0px",
+          "border": "0px solid rgb(238, 238, 238)",
+          "radius": "12px",
+          "color": "rgb(111, 111, 111)",
+          "background": "rgb(255, 255, 255)",
+          "position": "static",
+          "maxWidth": "none",
+          "display": "flex"
+        }
+      ],
+      "rootVariables": {
+        "--primary-dark": "0 0 0",
+        "--primary-light": "255 255 255",
+        "--tw-ring-offset-width": "0px",
+        "--assistant-sheet-width": "0px",
+        "--background-dark": "14 14 16",
+        "--background-light": "255 255 255",
+        "--color-primary": "rgb(0 0 0)",
+        "--topbar-tabs-height": "3rem",
+        "--primary": "0 0 0"
+      },
+      "containers": [
+        {
+          "selector": "#sidebar",
+          "ancestors": [
+            {
+              "tag": "NAV",
+              "classes": "z-20 hidden lg:block sticky self-start shrink-0 w-(--sidebar-width,18rem) top-[calc(var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))+var(--banner-height,0px))] h-[calc(100dvh-var(--mintlify-slot-header-height,calc(4rem+var(--topbar-tabs-height,0rem)))-var(--banner-height,0px))]",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "288px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 390,
+                "bottom": 7741.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px 16px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "auto",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "auto",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 390,
+                "bottom": 7741.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#navbar",
+          "ancestors": [
+            {
+              "tag": "HEADER",
+              "classes": "z-30 fixed lg:sticky top-0 w-full peer is-not-custom peer is-not-center peer is-not-wide peer is-not-frame",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 120,
+                "top": 0,
+                "right": 390,
+                "bottom": 120,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "auto",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex lg:w-full",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "auto",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative antialiased text-gray-500 dark:text-gray-400",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 390,
+                "bottom": 7741.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 390,
+                "bottom": 7741.84375,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": "#content-area",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 16,
+                "y": 160,
+                "width": 358,
+                "height": 7581.84375,
+                "top": 160,
+                "right": 374,
+                "bottom": 7741.84375,
+                "left": 16
+              },
+              "maxWidth": "none",
+              "width": "358px",
+              "gap": "normal",
+              "padding": "0px 4px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 16,
+                "y": 0,
+                "width": 358,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 374,
+                "bottom": 7741.84375,
+                "left": 16
+              },
+              "maxWidth": "none",
+              "width": "358px",
+              "gap": "48px",
+              "padding": "160px 0px 0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "MAIN",
+              "classes": "lg:flex-1 lg:min-w-0",
+              "rect": {
+                "x": 16,
+                "y": 0,
+                "width": 358,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 374,
+                "bottom": 7741.84375,
+                "left": 16
+              },
+              "maxWidth": "none",
+              "width": "358px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "scroll-mt-(--scroll-mt) peer-[.is-custom]:max-w-none peer-[.is-center]:max-w-3xl peer-[.is-not-custom]:peer-[.is-not-center]:max-w-8xl peer-[.is-not-custom]:px-4 peer-[.is-not-custom]:mx-auto peer-[.is-not-custom]:lg:px-8 peer-[.is-wide]:lg:*:last:max-w-216 peer-[.is-not-custom]:peer-[.is-not-center]:lg:flex peer-[.is-custom]:[&>:first-child]:hidden! peer-[.is-custom]:[&>:first-child]:sm:hidden! peer-[.is-custom]:[&>:first-child]:md:hidden! peer-[.is-custom]:[&>:first-child]:lg:hidden! peer-[.is-custom]:[&>:first-child]:xl:hidden! peer-[.is-center]:[&>:first-child]:hidden! peer-[.is-center]:[&>:first-child]:sm:hidden! peer-[.is-center]:[&>:first-child]:md:hidden! peer-[.is-center]:[&>:first-child]:lg:hidden! peer-[.is-center]:[&>:first-child]:xl:hidden!",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 390,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 390,
+                "bottom": 7741.84375,
+                "left": 0
+              },
+              "maxWidth": "1472px",
+              "width": "390px",
+              "gap": "normal",
+              "padding": "0px 16px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "max-lg:contents lg:flex-1 lg:min-w-0 lg:overflow-x-clip",
+              "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 0,
+                "height": 0,
+                "top": 0,
+                "right": 0,
+                "bottom": 0,
+                "left": 0
+              },
+              "maxWidth": "none",
+              "width": "auto",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "0px"
+            }
+          ]
+        },
+        {
+          "selector": ".card",
+          "ancestors": [
+            {
+              "tag": "DIV",
+              "classes": "card block font-normal group relative my-2 ring-2 ring-transparent rounded-2xl bg-white dark:bg-background-dark border border-gray-950/10 dark:border-white/10 overflow-hidden w-full cursor-pointer hover:border-primary! dark:hover:border-primary-light!",
+              "rect": {
+                "x": 20,
+                "y": 876.984375,
+                "width": 350,
+                "height": 110,
+                "top": 876.984375,
+                "right": 370,
+                "bottom": 986.984375,
+                "left": 20
+              },
+              "maxWidth": "none",
+              "width": "350px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "8px 0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "columns prose dark:prose-invert grid max-w-none gap-4 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @2xl/columns-container:grid-cols-[repeat(var(--cols),minmax(0,1fr))] @[0px]/columns-container:grid-cols-1 card-group dark:prose-dark gap-y-0 sm:grid-cols-[repeat(var(--cols),minmax(0,1fr))]!",
+              "rect": {
+                "x": 20,
+                "y": 868.984375,
+                "width": 350,
+                "height": 378,
+                "top": 868.984375,
+                "right": 370,
+                "bottom": 1246.984375,
+                "left": 20
+              },
+              "maxWidth": "none",
+              "width": "350px",
+              "gap": "0px 16px",
+              "padding": "0px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "mdx-content @container/columns-container relative mt-8 prose prose-gray dark:prose-invert [contain:inline-size] isolate empty:hidden mb-14",
+              "rect": {
+                "x": 20,
+                "y": 260,
+                "width": 350,
+                "height": 7048.84375,
+                "top": 260,
+                "right": 370,
+                "bottom": 7308.84375,
+                "left": 20
+              },
+              "maxWidth": "none",
+              "width": "350px",
+              "gap": "normal",
+              "padding": "0px",
+              "margin": "32px 0px 56px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "relative grow box-border flex-col w-full mx-auto px-1 lg:pl-[5.7rem] lg:-ml-12 xl:w-[calc(100%-28rem)] lg:max-w-[calc(var(--content-width,100vw)+5.95rem)]",
+              "rect": {
+                "x": 16,
+                "y": 160,
+                "width": 358,
+                "height": 7581.84375,
+                "top": 160,
+                "right": 374,
+                "bottom": 7741.84375,
+                "left": 16
+              },
+              "maxWidth": "none",
+              "width": "358px",
+              "gap": "normal",
+              "padding": "0px 4px",
+              "margin": "0px"
+            },
+            {
+              "tag": "DIV",
+              "classes": "flex flex-row-reverse gap-12 box-border w-full pt-[calc(10rem+var(--banner-height,2.5rem))] lg:pt-10",
+              "rect": {
+                "x": 16,
+                "y": 0,
+                "width": 358,
+                "height": 7741.84375,
+                "top": 0,
+                "right": 374,
+                "bottom": 7741.84375,
+                "left": 16
+              },
+              "maxWidth": "none",
+              "width": "358px",
+              "gap": "48px",
+              "padding": "160px 0px 0px",
+              "margin": "0px"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "cardHover": {
+    "border": "1px solid rgb(0, 0, 0)",
+    "shadow": "rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 2px, rgba(0, 0, 0, 0) 0px 0px 0px 0px",
+    "transform": "none"
+  },
+  "searchDialog": "Use the up and down arrow keys to select a result, Enter to open it, and Escape to close search.",
+  "themeMenu": "System\nSwitch to system theme\nLight\nSwitch to light theme\nDark\nSwitch to dark theme",
+  "mobileMoreMenu": "Mobile more actions menu not exposed via menu role",
+  "mobileSidebar": "Documentation Index\n\nFetch the complete documentation index at: /llms.txt\n\nUse this file to discover all available pages before exploring further.\n\nSkip to main content\nOpus Clip home page\nSearch...\nNavigation\nGetting Started\nIntroduction to OpusClip\nGetting Started\nIntroduction to OpusClip\nOpusClip is the #1 video clipping tool that turns long videos into shorts, and publishes them on all social platforms with one click.\n​\nGetting Started\nBefore creating your first clips, log in to your account, set up your brand template, and connect your social accounts.\nAdd Your Brand Template\nAdd Your Social Accounts\nSet Up Your Team Workspace\n​\nClipAnything\nClipAnything is the first-ever multimodal AI clipping that lets you clip any moment from ANY video using visual, audio, and sentiment cues, including videos with little to no dialogue.\nWhat is ClipAnything?\nHow to use ClipAnything?\nClipAnything Prompt Manual\n​\nSubmit Your Video\nStart your first project by importing your original long video from various online platforms or local files.\nVideo Sources Supported\nVideo Length Supported\nVideo Languages Supported\n​\nCustomize Your Clips\nAfter uploading your video, you can give our AI the specific instructions to tailor the content to your needs.\nAdd Logo and Fonts\nAdjust Aspect Ratio\nChoose Clip Length\nClip a Specific Timeframe\nUse Prompts to Clip Specific Moments\n​\nGet Your Clips\nOnce you get everything set up and click the “Get clips with one click!”, you will see all of the clips on the results page. For videos of different lengths, you may get different amounts of clips.\nNumber of Clips Generated?\nResult Page Walkthrough\n​\nEdit Your Clips\nIf you like the clips but want to make some minor tweaks, our in-app video editor has you covered! With our powerful Editor, you can do both text-based and timeline-based editing.\nChange Layout\nManual Reframe\nChange Captions\nAI Emojis or Keywords\nTrim and Extend\nAdd Text-Overlay\nAdd Transition Effects\nRemove Fillers and Pauses\nAI B-Roll\nAI Voiceover\n​\nManage Your Clips\nYou can save and manage your clips.\nSave Your Projects\n​\nPublish Your Projects\nAfter selecting your favorite clips, you can easily publish your projects across multiple social platforms.\nAdd Social Accounts\nSchedule Your Clips\nCustomize Your Post\n​\nExport to XML\nIf you want to make further edits, you can also export your clips as an XML file and edit them in professional editing tools like Adobe Premiere or Davinci Resolve.\nImport to Adobe Premiere Pro\nImport to DaVinci Resolve\n​\nOthers\nYou can find more information in the sections below.\nEmail Notification\nEmail Log In\nBilling and Payment\nAPI\nFAQs\n\nWas this page helpful?\n\nYes\nNo\nThings You Should Set Up First\nPowered by\nThis documentation is built and hosted on Mintlify, a developer documentation platform\nOpus Clip home page\nHelp Center\nGetting Started\nIntroduction to OpusClip\nThings You Should Set Up First\nEmail Login\n🌟 ClipAnything\nWhat is ClipAnything?\nHow to use ClipAnything?\nClipAnything Prompts Manual\nClipAnything FAQ\nOpusSearch\nOpusSearch\nSubmit Your Videos\nVideo Sources Supported\nVideo Length Supported\nLocal File Uploads\nVideo Languages Supported\nAuto Import Your Latest YouTube Videos\nUpload Your Own SRT Along With The Video\nCustomize Your Clips\nHow to Use Brand Kit\nAdd Logo and Custom Fonts\nChange Aspect Ratio\nSelect your Clip Length\nClip a Specific Timeframe\nUse Prompts to Clip Specific Moments\nTranslate Subtitles to Another Language\nBrand Vocabulary\nGet Your Clips\nHow Many Clips Can I Get?\nRefunding a Project\nGet Your Clips FAQ\nEdit Your Clips\nAdjust Layout\nManual Reframe\nSubject Tracking\nChange or Remove Captions\nAI Emojis/Keywords\nTrim and Extend the Video\nAdd Text Overlays\nAdd Transition Effects\nSpeech Cleanup\nAdd B-roll to your video\nAI Voiceover\nAdd Intro/Outro Cards\nUpload Custom Media Assets\nAdd Music\nKeyboard Editing Shortcuts\nRearrange Scenes in the Timeline\nHow to Censor Curse Words\nSnap Editing\nAuto headline\nAdd a Viral Hook to your video\nAdd motion graphics to your video\nFix lighting and color with Auto color correction\nDuplicate Clips\nUpscale a Video\nVideo Clone & Dubbing\nAdd sound effects automatically with Auto SFX\nHow to Use Eye Contact Correction\nManage Your Clips\nSaving Your Projects\nCollections\nShare Projects with Collaborators\nBulk Download\nDownload and Post in 4K\nDelete a Project\nCloud Storage\nPublish Your Projects\nAdd Social Accounts\nWhy Can't I Connect My Facebook Account?\nSchedule Your Clips\nSet a Custom Thumbnail\nCustomize My Posts\nScheduler FAQ\nConnecting Your YouTube Channel Account\nConnecting Your Instagram Professional Account (Business or Creator accounts)\nInstagram Login Errors\nBulk Scheduler\nHow to post to TikTok\nWhat is the Virality Score on OpusClip?\nExport to XML\nImport to Adobe Premiere Pro\nImport to DaVinci Resolve\nTeam Workspace\nTeam Management\nAccount Management\nEmail Notification Settings\nBilling and Payment\nHow Do Credits Work?\nPlans\nUpgrade & Downgrade\nPayments & Billing info\nAPI & Integration\nAPI Requests\nZapier Integration\nCreate Zaps with Google Drive\nOther Questions\nBecome an Affiliate\nRequest a Feature\nPrivacy & Security\nEditor Browser Use FAQ\nFeatures Not Included in the Free Trial",
+  "assets": [
+    "https://help.opus.pro/_mintlify/assets/index-BSPJDRoU.css?dpl=dpl_DeHjVRGfFnhYQwHnfC2pjeXXv8h9",
+    "https://help.opus.pro/_mintlify/assets/fonts/inter/Inter-latin.woff2",
+    "https://mintcdn.com/opusclip-c3e48c12/H3hvh_QZTOfvCejz/logo/opus_logo.svg?fit=max&auto=format&n=H3hvh_QZTOfvCejz&q=85&s=d92c6d9e8913d19810d8cc3432d7f373",
+    "https://www.youtube.com/s/player/11a45ffb/www-player.css",
+    "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.1rocrYPuO4g.L.W.O/am=AAAAgADAGA/d=1/br=1/rs=AGKMywFSnYFZLX56IKPYOInW0UplptSqkQ/m=root,base",
+    "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "https://i.ytimg.com/vi/dvO5NsYovM4/sddefault.jpg",
+    "https://yt3.ggpht.com/TnB9trlmxkaLz_ZbGiAQ39QfOTOpOzWQ-Q2E-hGNmaJ6Ju_l8WUyTo0mM7QlyRQLVnRspRSI=s68-c-k-c0x00ffffff-no-rj",
+    "https://www.youtube.com/generate_204?Abw8Mw",
+    "https://d3gk2c5xim1je2.cloudfront.net/fontawesome/v7.2.0/solid/magnifying-glass.svg",
+    "https://d3gk2c5xim1je2.cloudfront.net/fontawesome/v7.2.0/solid/ellipsis-vertical.svg",
+    "https://help.opus.pro/_mintlify/assets/fonts/PaperMono-Variable.woff2",
+    "https://www.youtube.com/generate_204?LJMvwg",
+    "https://www.youtube.com/generate_204?Kv7U5A",
+    "https://www.youtube.com/generate_204?mLhmgQ"
+  ],
+  "fontFaces": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Paper Mono",
+      "weight": "100 800",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "status": "unloaded"
+    },
+    {
+      "family": "Latin Modern",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "Latin Modern",
+      "weight": "400",
+      "status": "unloaded"
+    },
+    {
+      "family": "Latin Modern",
+      "weight": "700",
+      "status": "unloaded"
+    },
+    {
+      "family": "Latin Modern",
+      "weight": "700",
+      "status": "unloaded"
+    },
+    {
+      "family": "CMU Typewriter Text",
+      "weight": "500",
+      "status": "unloaded"
+    }
+  ]
+}

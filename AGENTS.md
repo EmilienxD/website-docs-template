@@ -8,63 +8,43 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 <!-- END:nextjs-agent-rules -->
 
-# Website Reverse-Engineer Template
+# Website Documentation Template
 
-## What This Is
-A reusable template for reverse-engineering any website into a clean, modern Next.js codebase using AI coding agents. The Next.js + shadcn/ui + Tailwind v4 base is pre-scaffolded — just run `/clone-website <url1> [<url2> ...]`.
+## Project description
 
-## Tech Stack
-- **Framework:** Next.js 16 (App Router, React 19, TypeScript strict)
-- **UI:** shadcn/ui (Base UI primitives, Tailwind CSS v4, `cn()` utility)
-- **Icons:** Lucide React (default — will be replaced/supplemented by extracted SVGs)
-- **Styling:** Tailwind CSS v4 with oklch design tokens
-- **Deployment:** Vercel
+This is a reusable website documentation template for the official documentation of production projects. Each project can use this foundation and adapt its branding, navigation, guides, API references, and other documentation to its own product.
 
-## Commands
-- `npm run dev` — Start dev server
-- `npm run build` — Production build
-- `npm run lint` — ESLint check
-- `npm run typecheck` — TypeScript check
-- `npm run check` — Run lint + typecheck + build
+The current site uses Forma as example branding and content. Treat those examples as editable starting points and replace them with accurate product information when adapting the template.
 
-## Code Style
-- TypeScript strict mode, no `any`
-- Named exports, PascalCase components, camelCase utils
-- Tailwind utilities or scoped CSS; avoid inline styles unless behavior needs dynamic values
-- 2-space indentation
-- Responsive: mobile-first
+## Stack and commands
 
-## Design Principles
-- **Pixel-perfect emulation** — match the target's spacing, colors, typography exactly
-- **No personal aesthetic changes during emulation phase** — match 1:1 first, customize later
-- **Real content** — use actual text and assets from the target site, not placeholders
-- **Beauty-first** — every pixel matters
+- Next.js 16 App Router, React 19, and strict TypeScript.
+- Tailwind CSS v4, shadcn/ui with Base UI primitives, and Lucide icons.
+- Shiki for server-side syntax highlighting and locally hosted fonts.
+- Node.js 24 or newer; install dependencies with `npm ci`.
+- `npm run dev`: start the development server.
+- `npm run build` and `npm start`: build and serve the production site.
+- `npm run lint`: run ESLint.
+- `npm run typecheck`: check TypeScript.
+- `npm run check`: run lint, typecheck, and the production build.
 
-## Project Structure
-```
-src/
-  app/              # Next.js routes
-  components/       # React components
-    ui/             # shadcn/ui primitives
-    sites/<site>/   # Source-specific components, including extracted SVGs
-  lib/
-    utils.ts        # cn() utility (shadcn)
-  types/            # TypeScript interfaces
-  hooks/            # Custom React hooks
-public/
-  sites/<site>/     # Source-specific images, fonts, video, and other assets
-docs/
-  research/<site>/  # Page brief, asset map, and inspection evidence
-  design-references/ # Screenshots and visual references
-scripts/            # Asset download scripts
-.agents/
-  skills/
-    clone-website/  # Canonical cross-agent cloning workflow
-.claude/
-  commands/
-    clone-website.md # Thin Claude Code invocation bridge
-```
+## Project structure
 
-## Agent Workflow
-- Edit `.agents/skills/clone-website/` for cloning-workflow changes. It is the canonical skill used by Codex, Cursor, and OpenCode.
-- Keep `.claude/commands/clone-website.md` as a thin Claude Code bridge to the canonical skill; do not duplicate the workflow there.
+- `src/app/`: routes, layouts, metadata, and global styles.
+- `src/components/sites/opus-help/`: existing documentation components, content, search, navigation, themes, and article styles. The folder name is historical.
+- `src/components/ui/`: shared UI primitives.
+- `src/lib/`, `src/hooks/`, and `src/types/`: utilities, hooks, and shared types.
+- `public/sites/opus-help/`: documentation fonts and icons used by the app.
+- `docs/TEMPLATE.md`: customization and component guide.
+- `.codex/`: Codex configuration, including Chrome browser access. Preserve it.
+
+## Development guidelines
+
+- Keep the template reusable across production projects; avoid coupling shared UI to one product.
+- Start branding, article, and sidebar changes in `src/components/sites/opus-help/content.ts`.
+- Keep documentation accurate, clear, and task oriented. Distinguish sample API endpoints and example behavior from real product capabilities.
+- Preserve responsive layouts, accessible keyboard interactions, search, light/dark/system themes, and readable code examples.
+- Use strict TypeScript without `any`, named exports, PascalCase components, camelCase utilities, and 2-space indentation.
+- Prefer Tailwind utilities or scoped CSS. Use inline styles only when dynamic behavior requires them.
+- Run checks appropriate to the change; use `npm run check` before delivering application changes.
+- Use the Chrome access configured in `.codex/` for browser verification when needed.
